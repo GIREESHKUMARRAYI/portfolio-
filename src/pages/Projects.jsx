@@ -14,8 +14,8 @@ const Projects = () => {
       category: 'ai-ml',
       technologies: ['Python', 'TensorFlow', 'NLP', 'Flask'],
       github: 'https://github.com/rayigireesh/ai-chatbot',
-      live: 'https://ai-chatbot-demo.vercel.app',
-      featured: true
+      live: null,
+      featured: false
     },
     {
       id: 2,
@@ -25,8 +25,8 @@ const Projects = () => {
       category: 'fullstack',
       technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
       github: 'https://github.com/rayigireesh/ecommerce-platform',
-      live: 'https://ecommerce-demo.vercel.app',
-      featured: true
+      live: null,
+      featured: false
     },
     {
       id: 3,
@@ -47,7 +47,7 @@ const Projects = () => {
       category: 'fullstack',
       technologies: ['React', 'Express', 'Socket.io', 'PostgreSQL'],
       github: 'https://github.com/rayigireesh/task-manager',
-      live: 'https://task-manager-demo.vercel.app',
+      live: null,
       featured: false
     },
     {
@@ -58,7 +58,7 @@ const Projects = () => {
       category: 'ai-ml',
       technologies: ['Python', 'NLTK', 'Scikit-learn', 'Streamlit'],
       github: 'https://github.com/rayigireesh/sentiment-analysis',
-      live: 'https://sentiment-analyzer.streamlit.app',
+      live: null,
       featured: false
     },
     {

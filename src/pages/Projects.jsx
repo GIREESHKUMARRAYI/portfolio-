@@ -68,9 +68,9 @@ const Projects = () => {
       image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800',
       category: 'frontend',
       technologies: ['React', 'Framer Motion', 'Tailwind CSS', 'TypeScript'],
-      github: 'https://github.com/rayigireesh/portfolio',
-      live: 'https://rayigireesh.vercel.app',
-      featured: false
+      github: 'https://github.com/GIREESHKUMARRAYI/portfolio-',
+      live: 'https://portfolio-six-tawny-47.vercel.app/',
+      featured: true
     }
   ];
 

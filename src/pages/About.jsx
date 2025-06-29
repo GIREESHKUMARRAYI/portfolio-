@@ -1,12 +1,13 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Mail, Phone, Github, Linkedin, BookOpen, Code } from 'lucide-react';
+import { Mail, Phone, Github, Linkedin, BookOpen, Code, Globe } from 'lucide-react';
 
 const contactInfo = [
   { icon: <Mail />, label: 'Email', value: 'gireeshkumarrayi@gmail.com', href: 'mailto:gireeshkumarrayi@gmail.com' },
   { icon: <Phone />, label: 'Phone', value: '+91 7674877358', href: 'tel:+917674877358' },
   { icon: <Github />, label: 'GitHub', value: 'github.com/GIREESHKUMARRAYI', href: 'https://github.com/GIREESHKUMARARYI' },
   { icon: <Linkedin />, label: 'LinkedIn', value: 'Gireesh Kumar', href: 'https://www.linkedin.com/in/gireesh-kumar-88766824a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' },
+  { icon: <Globe />, label: 'Live Portfolio', value: 'portfolio-six-tawny-47.vercel.app', href: 'https://portfolio-six-tawny-47.vercel.app/' },
 ];
 
 const education = [
